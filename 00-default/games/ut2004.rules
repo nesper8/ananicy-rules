@@ -1,2 +1,5 @@
 # https://steamcommunity.com/app/13230
 { "name": "UT2004.exe", "type": "Game" }
+{ "name": "ut2004-bin", "type": "Game" }
+{ "name": "ut2004-bin-linux-amd64", "type": "Game" }
+
